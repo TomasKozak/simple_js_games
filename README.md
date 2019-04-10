@@ -1,1 +1,1 @@
-Simple games made in JavaScript, F_AdventureGame was created by me and three other people, it was meant to be our first collaborating project, where we learned to use basic git commands and also wh…
+Simple games made in JavaScript, F_AdventureGame was created by me and three other people, it was meant to be our first collaborating project, where we learned to use basic git commands and also where we deepen our skills with object oriented programming. Other games were just introduction to JavaScript coding.
